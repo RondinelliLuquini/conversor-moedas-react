@@ -1,0 +1,16 @@
+body{
+    background-image: linear-gradient(90deg, cyan, yellow);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.conversor{
+    padding: 20px;
+    max-width: 300px;
+    background-color: rgba(20, 20, 20, 0.445);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.74);
+    border-radius: 5px;
+    font-size: 10px;
+    color: white;     
+}
+
+
