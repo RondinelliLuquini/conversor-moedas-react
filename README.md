@@ -1,7 +1,7 @@
-## Coversor de Moedas em React.JS
+## Conversor de Moedas em React.JS
   
 
-Esete projeto de Conversor de Moedas foi utilizado React.JS para construção, consumindo uma API extraída da Free Currency Converter API.
+Este projeto de Conversor de Moedas foi utilizado React.JS para construção, consumindo uma API extraída da Free Currency Converter API.
 
 ![conversor](./assets/conversor.png)
 
